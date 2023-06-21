@@ -22,3 +22,7 @@ a{
 	margin-right:auto;
 	width:max-content;
 }
+
+h2, h1{
+	text-align:center;
+}
